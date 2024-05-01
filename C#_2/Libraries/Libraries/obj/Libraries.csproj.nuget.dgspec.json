@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Masaüstü\\c#\\C#_2\\Libraries\\Libraries\\Libraries.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Masaüstü\\CSharp\\C#_2\\Libraries\\Libraries\\Libraries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Masaüstü\\c#\\C#_2\\Libraries\\Libraries\\Libraries.csproj": {
+    "C:\\Users\\User\\OneDrive\\Masaüstü\\CSharp\\C#_2\\Libraries\\Libraries\\Libraries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\c#\\C#_2\\Libraries\\Libraries\\Libraries.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\CSharp\\C#_2\\Libraries\\Libraries\\Libraries.csproj",
         "projectName": "Libraries",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\c#\\C#_2\\Libraries\\Libraries\\Libraries.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\CSharp\\C#_2\\Libraries\\Libraries\\Libraries.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\c#\\C#_2\\Libraries\\Libraries\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\CSharp\\C#_2\\Libraries\\Libraries\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

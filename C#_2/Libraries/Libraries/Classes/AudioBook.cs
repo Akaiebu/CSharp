@@ -27,9 +27,9 @@ namespace Library.Classes
                     return;
                 }
             }
-            Console.WriteLine("---------------------------------");
+            Console.WriteLine();
             Console.WriteLine("Səsli Kitab tapılmadı");
-            Console.WriteLine("---------------------------------");
+            Console.WriteLine();
         }
         public void GetFindBook(string bookToFind)
         {

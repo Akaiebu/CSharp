@@ -18,25 +18,25 @@ bool isTrue = true;
 void DisplayMenu(string category)
 {
     Console.WriteLine($"{category} sinifində etmək istədiyiniz əməliyyatı daxil edin");
-    Console.WriteLine("---------------------------------");
+    Console.WriteLine();
     Console.WriteLine($"1) {category} siyahısı");
     Console.WriteLine($"2) {category} əlavə etmək");
     Console.WriteLine($"3) {category} icarəyə götürmək");
     Console.WriteLine($"4) {category} axtarmaq");
     Console.WriteLine("5) Geri qayıt");
-    Console.WriteLine("---------------------------------");
+    Console.WriteLine();
 }
 
 void Login()
 {
 
     Console.WriteLine("Hansı materialı axtarırsınız ?");
-    Console.WriteLine("---------------------------------");
+    Console.WriteLine();
     Console.WriteLine("1)Kitablar");
     Console.WriteLine("2)Jurnallar");
     Console.WriteLine("3)Səsli kitablar");
     Console.WriteLine("4)Proqramı bağla");
-    Console.WriteLine("---------------------------------");
+    Console.WriteLine();
 }
 int count = 1;
 
@@ -60,29 +60,29 @@ while (count < 5)
                 {
                     case 1:
                         books.GetBookList();
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
 
                         break;
                     case 2:
                         Console.WriteLine("Əlavə edəcəyiniz kitabın adını daxil edin");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         string newBook = Console.ReadLine();
                         books.GetAddBookList(newBook);
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         Console.WriteLine($"{newBook} adlı kitab kitabxanaya uğurla əlavə olundu");
-                        Console.WriteLine("---------------------------------    ");
+                        Console.WriteLine();
                         Thread.Sleep(1000);
                         Console.Clear();
                         break;
                     case 3:
                         Console.WriteLine("Kirayəyə götürəcəyiniz kitabın adını daxil edin");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         string rentBook = Console.ReadLine();
                         books.GetDeleteBookList(rentBook);
                         break;
                     case 4:
                         Console.WriteLine("Axtardığınz kitabın adını daxil edin");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         string findBook = Console.ReadLine();
                         books.GetFindBook(findBook);
                         break;
@@ -112,24 +112,24 @@ while (count < 5)
                         break;
                     case 2:
                         Console.WriteLine("Əlavə edəcəyiniz jurnalın adını daxil edin");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         string newJournal = Console.ReadLine();
                         journals.GetAddBookList(newJournal);
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         Console.WriteLine($"{newJournal} adlı jurnal kitabxanaya uğurla əlavə olundu");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         Thread.Sleep(1000);
                         Console.Clear();
                         break;
                     case 3:
                         Console.WriteLine("Kirayəyə götürəcəyiniz jurnalın adını daxil edin");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         string rentJournal = Console.ReadLine();
                         journals.GetDeleteBookList(rentJournal);
                         break;
                     case 4:
                         Console.WriteLine("Axtardığınz jurnalın adını daxil edin");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         string findJournal = Console.ReadLine();
                         journals.GetFindBook(findJournal);
                         break;
@@ -159,24 +159,24 @@ while (count < 5)
                         break;
                     case 2:
                         Console.WriteLine("Əlavə edəcəyiniz səsli kitabın adını daxil edin");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         string newAudio = Console.ReadLine();
                         audio.GetAddBookList(newAudio);
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         Console.WriteLine($"{newAudio} adlı səsli kitab kitabxanaya uğurla əlavə olundu");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         Thread.Sleep(1000);
                         Console.Clear();
                         break;
                     case 3:
                         Console.WriteLine("Kirayəyə götürəcəyiniz səsli kitabın  adını daxil edin");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         string rentAudio = Console.ReadLine();
                         audio.GetDeleteBookList(rentAudio);
                         break;
                     case 4:
                         Console.WriteLine("Axtardığınz səsli kitabın  adını daxil edin");
-                        Console.WriteLine("---------------------------------");
+                        Console.WriteLine();
                         string findAudio = Console.ReadLine();
                         audio.GetFindBook(findAudio);
                         break;

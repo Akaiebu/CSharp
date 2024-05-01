@@ -27,9 +27,9 @@ namespace Library.Classes
                     return;
                 }
             }
-            Console.WriteLine("---------------------------------");
+            Console.WriteLine();
             Console.WriteLine("Kitab tapılmadı");
-            Console.WriteLine("---------------------------------");
+            Console.WriteLine();
         }
         public  void GetFindBook(string bookToFind)
         {
@@ -37,15 +37,15 @@ namespace Library.Classes
             {
                 if (bookToFind == book)
                 {
-                    Console.WriteLine("---------------------------------");
+                    Console.WriteLine();
                     Console.WriteLine("Kitab tapıldı: " + book);
-                    Console.WriteLine("---------------------------------");
+                    Console.WriteLine();
                     return;
                 }
             }
-            Console.WriteLine("---------------------------------");
+            Console.WriteLine();
             Console.WriteLine("Kitab tapılmadı");
-            Console.WriteLine("---------------------------------");
+            Console.WriteLine();
         }
     }
 }
