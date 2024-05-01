@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\c#\\C#_2\\oop-new\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B2CE01-012B-40C8-A054-97166E6EB4C6}|oop-new\\oop-new.csproj|c:\\users\\user\\desktop\\c#\\c#_2\\oop-new\\oop-new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B2CE01-012B-40C8-A054-97166E6EB4C6}|oop-new\\oop-new.csproj|solutionrelative:oop-new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B2CE01-012B-40C8-A054-97166E6EB4C6}|oop-new\\oop-new.csproj|c:\\users\\user\\desktop\\c#\\c#_2\\oop-new\\oop-new\\isci\\proqramci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B2CE01-012B-40C8-A054-97166E6EB4C6}|oop-new\\oop-new.csproj|solutionrelative:oop-new\\isci\\proqramci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B2CE01-012B-40C8-A054-97166E6EB4C6}|oop-new\\oop-new.csproj|c:\\users\\user\\desktop\\c#\\c#_2\\oop-new\\oop-new\\isci\\isci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B2CE01-012B-40C8-A054-97166E6EB4C6}|oop-new\\oop-new.csproj|solutionrelative:oop-new\\isci\\isci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B2CE01-012B-40C8-A054-97166E6EB4C6}|oop-new\\oop-new.csproj|c:\\users\\user\\desktop\\c#\\c#_2\\oop-new\\oop-new\\classes\\duzbucaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B2CE01-012B-40C8-A054-97166E6EB4C6}|oop-new\\oop-new.csproj|solutionrelative:oop-new\\classes\\duzbucaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Duzbucaq.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\\C#_2\\oop-new\\oop-new\\classes\\Duzbucaq.cs",
+              "RelativeDocumentMoniker": "oop-new\\classes\\Duzbucaq.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\\C#_2\\oop-new\\oop-new\\classes\\Duzbucaq.cs",
+              "RelativeToolTip": "oop-new\\classes\\Duzbucaq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:52:56.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proqramci.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\\C#_2\\oop-new\\oop-new\\Isci\\Proqramci.cs",
+              "RelativeDocumentMoniker": "oop-new\\Isci\\Proqramci.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\\C#_2\\oop-new\\oop-new\\Isci\\Proqramci.cs",
+              "RelativeToolTip": "oop-new\\Isci\\Proqramci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:50:36.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Isci.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\\C#_2\\oop-new\\oop-new\\Isci\\Isci.cs",
+              "RelativeDocumentMoniker": "oop-new\\Isci\\Isci.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\\C#_2\\oop-new\\oop-new\\Isci\\Isci.cs",
+              "RelativeToolTip": "oop-new\\Isci\\Isci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:48:57.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\\C#_2\\oop-new\\oop-new\\Program.cs",
+              "RelativeDocumentMoniker": "oop-new\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\\C#_2\\oop-new\\oop-new\\Program.cs",
+              "RelativeToolTip": "oop-new\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:15:15.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

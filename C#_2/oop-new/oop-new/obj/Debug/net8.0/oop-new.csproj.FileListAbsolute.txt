@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\bin\Debug\net8.0\oop-new.exe
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\bin\Debug\net8.0\oop-new.deps.json
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\bin\Debug\net8.0\oop-new.runtimeconfig.json
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\bin\Debug\net8.0\oop-new.dll
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\bin\Debug\net8.0\oop-new.pdb
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\obj\Debug\net8.0\oop-new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\obj\Debug\net8.0\oop-new.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\obj\Debug\net8.0\oop-new.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\obj\Debug\net8.0\oop-new.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\obj\Debug\net8.0\oop-new.dll
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\obj\Debug\net8.0\refint\oop-new.dll
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\obj\Debug\net8.0\oop-new.pdb
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\obj\Debug\net8.0\oop-new.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\C#_2\oop-new\oop-new\obj\Debug\net8.0\ref\oop-new.dll
